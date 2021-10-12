@@ -73,3 +73,93 @@ header {
   position: relative;
   top: 10rem;
 }
+
+/* offer */
+
+.offer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 100%;
+}
+
+.box {
+  max-width: 50vw;
+}
+
+.box-1 {
+  padding: 8rem 6.4rem 10rem 10rem;
+  max-height: 400px;
+}
+.box-2 {
+  background-image: url("images/desktop/image-transform.jpg");
+  background-size: cover;
+}
+.box-3 {
+  background-image: url("images/desktop/image-stand-out.jpg");
+  background-size: cover;
+}
+.box-4 {
+  padding: 8rem 6.4em 10rem 10rem;
+}
+
+.box-5 {
+  background-image: url("images/desktop/image-graphic-design.jpg");
+  background-size: cover;
+
+  padding: 23rem 13rem 2rem;
+  text-align: center;
+}
+
+.box-6 {
+  background-image: url("images/desktop/image-photography.jpg");
+  background-size: cover;
+  padding: 23rem 13rem 2rem;
+  text-align: center;
+}
+
+.box-5 h3 {
+  color: hsl(167, 40%, 24%) !important;
+}
+
+.box-5 p {
+  color: hsl(167, 40%, 24%) !important;
+}
+.box-6 h3 {
+  color: hsl(198, 62%, 26%) !important;
+}
+
+.box-6 p {
+  color: hsl(198, 62%, 26%) !important;
+}
+
+.offer h2 {
+  font-family: "Fraunces";
+  font-size: 3rem;
+  color: hsl(212, 27%, 19%);
+}
+.offer h3 {
+  font-family: "Fraunces";
+  font-size: 1.8rem;
+  color: hsl(212, 27%, 19%);
+}
+
+.offer p {
+  font-weight: 400;
+  margin-bottom: 2rem;
+  line-height: 1.5;
+  color: hsl(210, 4%, 67%);
+}
+
+.offer a {
+  font-family: "Fraunces";
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: hsl(212, 27%, 19%);
+}
+
+/* testimonials */
+
+.testimonials-boxes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
