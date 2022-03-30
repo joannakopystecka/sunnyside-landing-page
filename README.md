@@ -6,5 +6,5 @@ Responsywna strona internetowa firmy.
 
 Cele projektu:
 - responsywna strona
-- hamburger przy użyciu JavaScript
+- hamburger menu przy użyciu JavaScript
 - CSS Flex i Grid
