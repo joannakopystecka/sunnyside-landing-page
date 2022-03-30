@@ -2,6 +2,8 @@
 
 https://joannakopystecka.github.io/sunnyside-landing-page/
 
+Challange https://www.frontendmentor.io/.
+
 Responsywna strona internetowa firmy. 
 
 Cele projektu:
