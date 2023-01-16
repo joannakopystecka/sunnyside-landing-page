@@ -1,12 +1,11 @@
-# sunnyside-landing-page
+# Frontend Mentor - Sunnyside landing page
 
-https://joannakopystecka.github.io/sunnyside-landing-page/
+Live demo: https://joannakopystecka.github.io/sunnyside-landing-page/
 
-Challange https://www.frontendmentor.io/.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef).
 
-Responsywna strona internetowa firmy. 
 
-Cele projektu:
-- responsywna strona
-- hamburger menu przy użyciu JavaScript
-- CSS Flex i Grid
+### Project goals:
+- building responsive landing page,
+- using CSS Flex and CSS Grid,
+- creating hamburger menu with JavaScript.
