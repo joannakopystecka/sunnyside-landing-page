@@ -6,6 +6,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 
 ### Project goals:
-- building responsive landing page,
+- building a responsive landing page,
 - using CSS Flex and CSS Grid,
-- creating hamburger menu with JavaScript.
+- creating a hamburger menu with JavaScript.
